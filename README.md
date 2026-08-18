@@ -1,4 +1,4 @@
-# 🛡️ Cyber Threat Analytics and Security Visualization Framework
+# 🛡️ Cyber Threat Analytics Platform with Incident Visualization System
 
 An interactive **Cybersecurity Incident Analytics Dashboard** developed using real-world cybersecurity incident data. The project focuses on analyzing attack patterns, attacker and actor behavior, targeted assets, countries, attack motives, and incident severity through interactive Power BI dashboards.
 
